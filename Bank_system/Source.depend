@@ -1,0 +1,588 @@
+# depslib dependency file v1.0
+1692078626 source:c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\main.cpp
+	<iostream>
+	"clsLoginScreen.h"
+	"clsCurrency.h"
+	<fstream>
+	"clsInputValidate.h"
+	<iostream>
+
+1681109763 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\mylib.h
+	<iostream>
+
+1685121935 source:c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\secondsource.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<iomanip>
+
+1688790695 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\include\clsperson.h
+	<iostream>
+
+1691838870 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsperson.h
+	<iostream>
+	"InterfaceCommunication.h"
+
+1688791321 source:c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\src\clsperson.cpp
+
+1688792411 source:c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsperson.cpp
+	"clsPerson.h"
+	<iostream>
+
+1688792577 source:c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsemployee.cpp
+	"clsEmployee.h"
+
+1688792802 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsemployee.h
+	<iostream>
+	"clsPerson.h"
+
+1688891048 source:c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsstring.cpp
+
+1690002156 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsstring.h
+	<iostream>
+	<vector>
+
+1689480598 source:c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsdate.cpp
+
+1691482898 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsdate.h
+	<iostream>
+	<ctime>
+
+1689751992 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsperiod.h
+	<iostream>
+	"clsPeriod.h"
+
+1691781964 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsutil.h
+	<iostream>
+	<string>
+	<cmath>
+
+1692078992 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsinputvalidate.h
+	<iostream>
+	<string>
+	<limits>
+	"clsString.h"
+	"clsDate.h"
+
+1691777436 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsbankclient.h
+	<iostream>
+	<string>
+	"clsPerson.h"
+	"clsString.h"
+	<vector>
+	<fstream>
+
+1692078421 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsmainscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsString.h"
+	"clsInputValidate.h"
+	"clsClientListScreen.h"
+	"clsAddNewClientScreen.h"
+	"clsDeleteClientScreen.h"
+	"clsUpdateClientScreen.h"
+	"clsFindClientScreen.h"
+	"clsTransactionScreen.h"
+	"clsManageUsersScreen.h"
+	"Global.h"
+	"clsLoginScreen.h"
+	"clsLoginRegisterScreen.h"
+	"clsCurrencyExchangeScreen.h"
+
+1691482958 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsscreen.h
+	<iostream>
+	"clsUser.h"
+	"Global.h"
+	"clsDate.h"
+
+1691482898 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsclientlistscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsMainScreen.h"
+	"clsBankClient.h"
+
+1692078244 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsaddnewclientscreen.h
+	<iostream>
+	"clsScreen.h"
+	"clsBankClient.h"
+	"clsInputValidate.h"
+
+1691482898 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsdeleteclientscreen.h
+	<iostream>
+	"clsScreen.h"
+	"clsBankClient.h"
+	"clsInputValidate.h"
+
+1692078244 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsupdateclientscreen.h
+	<iostream>
+	"clsScreen.h"
+	"clsBankClient.h"
+	"clsInputValidate.h"
+
+1691482958 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsfindclientscreen.h
+	<iostream>
+	"clsScreen.h"
+	"clsBankClient.h"
+	"clsInputValidate.h"
+
+1692078421 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clstransactionscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsInputValidate.h"
+	"clsDepositScreen.h"
+	"clsWithdrawScreen.h"
+	"clsTotalBalancesScreen.h"
+	"clsTransferScreen.h"
+	"clsTransferLogScreen.h"
+
+1692078342 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsdepositscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsBankClient.h"
+	"clsInputValidate.h"
+
+1692078365 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clswithdrawscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsBankClient.h"
+	"clsInputValidate.h"
+
+1690695866 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clstotalbalancesscreen.h
+	<iostream>
+	<iomanip>
+	"clsUtil.h"
+	"clsScreen.h"
+	"clsBankClient.h"
+	"clsInputValidate.h"
+
+1692078421 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsmanageusersscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsInputValidate.h"
+	"clsListUsersScreen.h"
+	"clsAddNewUserScreen.h"
+	"clsDeleteUserScreen.h"
+	"clsUpdateUserScreen.h"
+	"clsFindUserScreen.h"
+
+1690708704 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clslistusersscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsUser.h"
+	"clsInputValidate.h"
+
+1691782424 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsuser.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	"clsPerson.h"
+	"clsInputValidate.h"
+	"clsString.h"
+	"clsUtil.h"
+
+1691482703 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsaddnewuserscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsUser.h"
+	"clsInputValidate.h"
+
+1691482713 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsdeleteuserscreen.h
+	<iostream>
+	"clsScreen.h"
+	"clsUser.h"
+	"clsInputValidate.h"
+
+1690805925 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsupdateuserscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsUser.h"
+	"clsInputValidate.h"
+
+1690806914 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsfinduserscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsUser.h"
+	"clsInputValidate.h"
+
+1691238228 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsloginscreen.h
+	<iostream>
+	<string>
+	"clsScreen.h"
+	"clsUser.h"
+	"clsMainScreen.h"
+	"Global.h"
+
+1690950544 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\global.h
+	<iostream>
+	"clsUser.h"
+
+1690980307 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsshowclientlistscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsMainScreen.h"
+	"clsBankClient.h"
+
+1691388716 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsshowregisterloginscreen.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"clsScreen.h"
+	"clsUser.h"
+
+1691472586 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsloginregisterscreen.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"clsScreen.h"
+	"clsUser.h"
+
+1691760224 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clstransferscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsBankClient.h"
+	"clsInputValidate.h"
+	"clsDepositScreen.h"
+	"clsWithdrawScreen.h"
+
+1691777694 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clstransferlogscreen.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"clsScreen.h"
+	"clsBankClient.h"
+
+1691839015 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\interfacecommunication.h
+	<iostream>
+	<string>
+
+1692044970 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clscurrency.h
+	<iostream>
+	"clsString.h"
+	<fstream>
+
+1692078483 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clscurrencyexchangescreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsInputValidate.h"
+	"clsCurrenciesListScreen.h"
+	"clsFindCurrencyScreen.h"
+	"clsUpdateCurrencyRateScreen.h"
+	"clsCurrencyCalculatorScreen.h"
+
+1691910710 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clscurrencieslistscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsInputValidate.h"
+	"clsCurrency.h"
+
+1691955212 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsfindcurrencyscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsInputValidate.h"
+	"clsCurrency.h"
+	"clsString.h"
+
+1692078443 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clsupdatecurrencyratescreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsCurrency.h"
+	"clsInputValidate.h"
+
+1692078244 c:\users\ad\documents\ccodeblocks\first\sourcefolder\source\clscurrencycalculatorscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"clsInputValidate.h"
+
+1692079124 source:c:\users\ad\codeblocks\source\main.cpp
+	<iostream>
+	"clsLoginScreen.h"
+	"clsCurrency.h"
+	<fstream>
+	"clsInputValidate.h"
+	<iostream>
+
+1693247000 source:c:\users\ad\codeblocks\bank_system\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/clsLoginScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsCurrency.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsDate.h"
+
+1692363313 c:\users\ad\codeblocks\bank_system\screens\user\clsloginscreen.h
+	<iostream>
+	<string>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsUser.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsMainScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/Global.h"
+
+1692454547 c:\users\ad\codeblocks\bank_system\screens\clsscreen.h
+	<iostream>
+	<ctime>
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsUser.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/Global.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsDate.h"
+
+1692362809 c:\users\ad\codeblocks\bank_system\core\clsuser.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsPerson.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsString.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsUtil.h"
+
+1692365655 c:\users\ad\codeblocks\bank_system\core\clsperson.h
+	<iostream>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/InterfaceCommunication.h"
+
+1691839015 c:\users\ad\codeblocks\bank_system\screens\interfacecommunication.h
+	<iostream>
+	<string>
+
+1692347872 c:\users\ad\codeblocks\bank_system\lib\clsinputvalidate.h
+	<iostream>
+	<string>
+	<limits>
+	"clsString.h"
+	"clsDate.h"
+
+1690002156 c:\users\ad\codeblocks\bank_system\lib\clsstring.h
+	<iostream>
+	<vector>
+
+1691482898 c:\users\ad\codeblocks\bank_system\lib\clsdate.h
+	<iostream>
+	<ctime>
+
+1691781964 c:\users\ad\codeblocks\bank_system\lib\clsutil.h
+	<iostream>
+	<string>
+	<cmath>
+
+1692357748 c:\users\ad\codeblocks\bank_system\screens\user\global.h
+	<iostream>
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsUser.h"
+
+1692358445 c:\users\ad\codeblocks\bank_system\screens\clsmainscreen.h
+	<iostream>
+	<iomanip>
+	"clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsString.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsClientListScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsAddNewClientScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsDeleteClientScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsUpdateClientScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsFindClientScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsTransactionScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/clsManageUsersScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/Global.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/clsLoginScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/clsLoginRegisterScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Currencies/clsCurrencyExchangeScreen.h"
+
+1692358514 c:\users\ad\codeblocks\bank_system\screens\client\clsclientlistscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsMainScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsBankClient.h"
+
+1692365614 c:\users\ad\codeblocks\bank_system\core\clsbankclient.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"clsPerson.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsString.h"
+
+1692358625 c:\users\ad\codeblocks\bank_system\screens\client\clsaddnewclientscreen.h
+	<iostream>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsBankClient.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692358668 c:\users\ad\codeblocks\bank_system\screens\client\clsdeleteclientscreen.h
+	<iostream>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsBankClient.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692358711 c:\users\ad\codeblocks\bank_system\screens\client\clsupdateclientscreen.h
+	<iostream>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsBankClient.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692358757 c:\users\ad\codeblocks\bank_system\screens\client\clsfindclientscreen.h
+	<iostream>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsBankClient.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692358896 c:\users\ad\codeblocks\bank_system\screens\client\clstransactionscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsDepositScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsWithdrawScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsTotalBalancesScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsTransferScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsTransferLogScreen.h"
+
+1692358939 c:\users\ad\codeblocks\bank_system\screens\client\clsdepositscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsBankClient.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692358981 c:\users\ad\codeblocks\bank_system\screens\client\clswithdrawscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsBankClient.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692359077 c:\users\ad\codeblocks\bank_system\screens\client\clstotalbalancesscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsUtil.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsBankClient.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692359139 c:\users\ad\codeblocks\bank_system\screens\client\clstransferscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsBankClient.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsDepositScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Client/clsWithdrawScreen.h"
+
+1692359171 c:\users\ad\codeblocks\bank_system\screens\client\clstransferlogscreen.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsBankClient.h"
+
+1692359303 c:\users\ad\codeblocks\bank_system\screens\user\clsmanageusersscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/clsListUsersScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/clsAddNewUserScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/clsDeleteUserScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/clsUpdateUserScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/User/clsFindUserScreen.h"
+
+1692359360 c:\users\ad\codeblocks\bank_system\screens\user\clslistusersscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsUser.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692359428 c:\users\ad\codeblocks\bank_system\screens\user\clsaddnewuserscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsUser.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692359464 c:\users\ad\codeblocks\bank_system\screens\user\clsdeleteuserscreen.h
+	<iostream>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsUser.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692359507 c:\users\ad\codeblocks\bank_system\screens\user\clsupdateuserscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsUser.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692359546 c:\users\ad\codeblocks\bank_system\screens\user\clsfinduserscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsUser.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692359622 c:\users\ad\codeblocks\bank_system\screens\user\clsloginregisterscreen.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsUser.h"
+
+1692359706 c:\users\ad\codeblocks\bank_system\screens\currencies\clscurrencyexchangescreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Currencies/clsCurrenciesListScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Currencies/clsFindCurrencyScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Currencies/clsUpdateCurrencyRateScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/Currencies/clsCurrencyCalculatorScreen.h"
+
+1692359744 c:\users\ad\codeblocks\bank_system\screens\currencies\clscurrencieslistscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsCurrency.h"
+
+1692365658 c:\users\ad\codeblocks\bank_system\core\clscurrency.h
+	<iostream>
+	<fstream>
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsString.h"
+
+1692359826 c:\users\ad\codeblocks\bank_system\screens\currencies\clsfindcurrencyscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsCurrency.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsString.h"
+
+1692359867 c:\users\ad\codeblocks\bank_system\screens\currencies\clsupdatecurrencyratescreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Core/clsCurrency.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+
+1692359998 c:\users\ad\codeblocks\bank_system\screens\currencies\clscurrencycalculatorscreen.h
+	<iostream>
+	<iomanip>
+	"C:/Users/AD/CodeBlocks/Bank_System/Screens/clsScreen.h"
+	"C:/Users/AD/CodeBlocks/Bank_System/Lib/clsInputValidate.h"
+

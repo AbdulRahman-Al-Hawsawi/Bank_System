@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Source" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Source" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="./" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Source" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="./" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Core/clsATM_Bank.h" />
+		<Unit filename="Core/clsBankClient.h" />
+		<Unit filename="Core/clsCurrency.h" />
+		<Unit filename="Core/clsPerson.h" />
+		<Unit filename="Core/clsUser.h" />
+		<Unit filename="Lib/clsDate.h" />
+		<Unit filename="Lib/clsInputValidate.h" />
+		<Unit filename="Lib/clsString.h" />
+		<Unit filename="Lib/clsUtil.h" />
+		<Unit filename="Screens/ATM/clsChickBalanceScreen.h" />
+		<Unit filename="Screens/Client/clsAddNewClientScreen.h" />
+		<Unit filename="Screens/Client/clsClientListScreen.h" />
+		<Unit filename="Screens/Client/clsDeleteClientScreen.h" />
+		<Unit filename="Screens/Client/clsDepositScreen.h" />
+		<Unit filename="Screens/Client/clsFindClientScreen.h" />
+		<Unit filename="Screens/Client/clsShowClientListScreen.h" />
+		<Unit filename="Screens/Client/clsTotalBalancesScreen.h" />
+		<Unit filename="Screens/Client/clsTransactionScreen.h" />
+		<Unit filename="Screens/Client/clsTransferLogScreen.h" />
+		<Unit filename="Screens/Client/clsTransferScreen.h" />
+		<Unit filename="Screens/Client/clsUpdateClientScreen.h" />
+		<Unit filename="Screens/Client/clsWithdrawScreen.h" />
+		<Unit filename="Screens/Currencies/clsCurrenciesListScreen.h" />
+		<Unit filename="Screens/Currencies/clsCurrencyCalculatorScreen.h" />
+		<Unit filename="Screens/Currencies/clsCurrencyExchangeScreen.h" />
+		<Unit filename="Screens/Currencies/clsFindCurrencyScreen.h" />
+		<Unit filename="Screens/Currencies/clsUpdateCurrencyRateScreen.h" />
+		<Unit filename="Screens/InterfaceCommunication.h" />
+		<Unit filename="Screens/User/Global.h" />
+		<Unit filename="Screens/User/clsAddNewUserScreen.h" />
+		<Unit filename="Screens/User/clsDeleteUserScreen.h" />
+		<Unit filename="Screens/User/clsFindUserScreen.h" />
+		<Unit filename="Screens/User/clsListUsersScreen.h" />
+		<Unit filename="Screens/User/clsLoginRegisterScreen.h" />
+		<Unit filename="Screens/User/clsLoginScreen.h" />
+		<Unit filename="Screens/User/clsManageUsersScreen.h" />
+		<Unit filename="Screens/User/clsUpdateUserScreen.h" />
+		<Unit filename="Screens/clsATM_MainScreen.h" />
+		<Unit filename="Screens/clsMainScreen.h" />
+		<Unit filename="Screens/clsScreen.h" />
+		<Unit filename="clsEmployee.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
